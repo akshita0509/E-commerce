@@ -1,0 +1,21 @@
+.env
+.streamlit/secrets.toml
+__pycache__/
+*.pyc
+.DS_Store
+.venv/
+
+
+
+# Python environments
+venv/
+env/
+
+# Node dependencies
+node_modules/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment variables
+.env.*
